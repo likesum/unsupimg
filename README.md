@@ -6,7 +6,7 @@ Copyright (C) 2019, Zhihao Xia and Ayan Chakrabarti
 
 This distribution provides a Tensorflow implementation, along with trained models, for the method described in our NeurIPS 2019 paper:
 
-[Zhihao Xia](https://www.cse.wustl.edu/~zhihao.xia/) and [Ayan Chakrabarti](https://cse.wustl.edu/faculty/Pages/faculty.aspx?bio=117), "**[Training Image Estimators without Image Ground-Truth](https://arxiv.org/abs/1906.05775)**", NeurIPS 2019 (**spotlight**).
+[Zhihao Xia](https://likesum.github.io/) and [Ayan Chakrabarti](https://cse.wustl.edu/faculty/Pages/faculty.aspx?bio=117), "**[Training Image Estimators without Image Ground-Truth](https://arxiv.org/abs/1906.05775)**", NeurIPS 2019 (**spotlight**).
 
 <br />
 <img src="figure.jpg" width="900px"/>
